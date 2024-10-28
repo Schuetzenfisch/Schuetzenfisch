@@ -1,16 +1,28 @@
-## Hi there 👋
+ # Simon Kollmannsberger 🦝:
+ 
+<br/>
+Java | Python | C# | Data Science | Machine Learning
 
-<!--
-**Schuetzenfisch/Schuetzenfisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About:
+3rd year trainee as developer
 
-Here are some ideas to get you started:
+## Technologies:
+- Java
+- Python
+- C#
+- Data Science
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<a href="https://github.com/schuetzenfisch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schuetzenfisch&theme=radical&hide=glsl,python" />
+</a>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=schuetzenfisch&&show_icons=true&theme=radical&line_height=27&v=5" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/schuetzenfisch/count.svg" />
+</p>
