@@ -1,7 +1,7 @@
  # Simon Kollmannsberger 🦝:
  
 <br/>
-Java | Python | C# | Data Science | Machine Learning
+Java | Python | C#
 
 ## About:
 3rd year trainee as developer
