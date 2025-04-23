@@ -10,9 +10,7 @@ Java | Python | C#
 - Java
 - Python
 - C#
-- Data Science
-- Machine Learning
-
+  
 **Languages and Tools:**  
 
 <a href="https://github.com/schuetzenfisch">
