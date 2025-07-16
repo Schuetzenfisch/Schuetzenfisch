@@ -19,8 +19,3 @@ junior developer
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=schuetzenfisch&&show_icons=true&theme=radical&line_height=27&v=5" />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/schuetzenfisch/count.svg" />
-</p>
