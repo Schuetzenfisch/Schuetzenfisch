@@ -4,7 +4,7 @@
 Java | Python | C#
 
 ## About:
-3rd year trainee as developer
+junior developer
 
 ## Technologies:
 - Java
